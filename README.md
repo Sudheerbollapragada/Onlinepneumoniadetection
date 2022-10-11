@@ -8,10 +8,10 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 - Pneumonia
 
 # Project Home Page
-[Screenshot (38)](https://user-images.githubusercontent.com/40494619/194997705-12ecc98d-40ca-40df-a781-4e65d940f7a5.png)
 
+![home page](https://user-images.githubusercontent.com/40494619/194999041-e06e73a4-73d8-401c-9d3c-a40e24eb3c8c.png)
+![home2](https://user-images.githubusercontent.com/40494619/194999137-de95ae55-dffa-4e51-a408-887bf5421859.png)
 
-[Screenshot (39)](https://user-images.githubusercontent.com/40494619/194997821-d2d3434d-32cf-4c37-a34a-3eb589cf0ac0.png)
 
 # Preditng developed Model
 ![Screenshot (40)](https://user-images.githubusercontent.com/40494619/194997922-a0bd86e9-99ed-4f0e-b063-a6119a408f08.png)
