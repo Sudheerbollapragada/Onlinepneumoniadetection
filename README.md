@@ -6,10 +6,9 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 
 
 - Pneumonia
-- 
-# Project Home Page
 
-![Screenshot (38)](https://user-images.githubusercontent.com/40494619/194997705-12ecc98d-40ca-40df-a781-4e65d940f7a5.png)
+# Project Home Page
+[Screenshot (38)](https://user-images.githubusercontent.com/40494619/194997705-12ecc98d-40ca-40df-a781-4e65d940f7a5.png)
 
 
 [Screenshot (39)](https://user-images.githubusercontent.com/40494619/194997821-d2d3434d-32cf-4c37-a34a-3eb589cf0ac0.png)
@@ -20,8 +19,11 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/40494619/194998016-2195c1f1-6d6c-4aa5-b5dc-f344f00f00b0.png)
 
-# Sample Positive
+
 ![Screenshot (45)](https://user-images.githubusercontent.com/40494619/194998053-19c320cd-e6d5-42de-9e7c-0033fc480b71.png)
+
+# Sample Positive
+
 ![Screenshot (46)](https://user-images.githubusercontent.com/40494619/194998089-14d0ce9d-0495-4a62-800c-afe249d51c77.png)
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/40494619/194998108-b3db8de3-020e-47c9-a018-e58b946f1e1d.png)
